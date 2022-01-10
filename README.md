@@ -1,9 +1,11 @@
 # Curso estadística
  programación
- 1.- en el primer módulo.....
  
  
- 2.-En el segundo módulo......
- 
- 
- 3.En el tercer módulo........
+Para comenzar a explorar el curso tendrás que descargar la guía gratuita que te proporcionamos aquí debaja para que vayas teniendo un seguimiento del curso.
+
+1.-Guía
+
+2.-Portafolio
+
+3.-Archivos
