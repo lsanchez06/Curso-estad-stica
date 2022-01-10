@@ -1,2 +1,9 @@
 # Curso estadística
  programación
+ 1.- en el primer módulo.....
+ 
+ 
+ 2.-En el segundo módulo......
+ 
+ 
+ 3.En el tercer módulo........
